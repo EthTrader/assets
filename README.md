@@ -1,0 +1,2 @@
+# assets
+EthTrader subreddit assets
